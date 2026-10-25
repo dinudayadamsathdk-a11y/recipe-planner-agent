@@ -1,0 +1,199 @@
+{
+  "recipes": [
+    {
+      "name": "Pasta Primavera",
+      "diet": ["vegetarian"],
+      "ingredients": ["pasta", "zucchini", "cherry tomatoes", "olive oil", "garlic", "parmesan"],
+      "prep_time_mins": 25,
+      "serves": 2,
+      "nutrition_per_serving": {
+        "calories": 420,
+        "protein_g": 14,
+        "carbs_g": 58,
+        "fat_g": 14
+      }
+    },
+    {
+      "name": "Egg Fried Rice",
+      "diet": ["vegetarian"],
+      "ingredients": ["rice", "eggs", "soy sauce", "spring onion", "sesame oil", "peas"],
+      "prep_time_mins": 15,
+      "serves": 2,
+      "nutrition_per_serving": {
+        "calories": 380,
+        "protein_g": 12,
+        "carbs_g": 55,
+        "fat_g": 11
+      }
+    },
+    {
+      "name": "Chicken Stir Fry",
+      "diet": [],
+      "ingredients": ["chicken breast", "bell pepper", "broccoli", "soy sauce", "garlic", "ginger"],
+      "prep_time_mins": 20,
+      "serves": 2,
+      "nutrition_per_serving": {
+        "calories": 310,
+        "protein_g": 32,
+        "carbs_g": 18,
+        "fat_g": 9
+      }
+    },
+    {
+      "name": "Lentil Soup",
+      "diet": ["vegetarian", "vegan"],
+      "ingredients": ["red lentils", "onion", "carrot", "cumin", "tomatoes", "vegetable stock"],
+      "prep_time_mins": 35,
+      "serves": 4,
+      "nutrition_per_serving": {
+        "calories": 280,
+        "protein_g": 18,
+        "carbs_g": 44,
+        "fat_g": 4
+      }
+    },
+    {
+      "name": "Avocado Toast",
+      "diet": ["vegetarian", "vegan"],
+      "ingredients": ["bread", "avocado", "lemon juice", "chilli flakes", "salt"],
+      "prep_time_mins": 10,
+      "serves": 1,
+      "nutrition_per_serving": {
+        "calories": 290,
+        "protein_g": 6,
+        "carbs_g": 28,
+        "fat_g": 18
+      }
+    },
+    {
+      "name": "Grilled Salmon",
+      "diet": [],
+      "ingredients": ["salmon fillet", "lemon", "dill", "olive oil", "garlic"],
+      "prep_time_mins": 20,
+      "serves": 2,
+      "nutrition_per_serving": {
+        "calories": 350,
+        "protein_g": 38,
+        "carbs_g": 2,
+        "fat_g": 20
+      }
+    },
+    {
+      "name": "Vegetable Curry",
+      "diet": ["vegetarian", "vegan"],
+      "ingredients": ["chickpeas", "spinach", "tomatoes", "coconut milk", "curry powder", "onion", "garlic"],
+      "prep_time_mins": 30,
+      "serves": 3,
+      "nutrition_per_serving": {
+        "calories": 340,
+        "protein_g": 12,
+        "carbs_g": 42,
+        "fat_g": 14
+      }
+    },
+    {
+      "name": "Tuna Pasta",
+      "diet": [],
+      "ingredients": ["pasta", "canned tuna", "capers", "olive oil", "parsley", "lemon"],
+      "prep_time_mins": 20,
+      "serves": 2,
+      "nutrition_per_serving": {
+        "calories": 430,
+        "protein_g": 28,
+        "carbs_g": 52,
+        "fat_g": 10
+      }
+    },
+    {
+      "name": "Banana Oat Pancakes",
+      "diet": ["vegetarian"],
+      "ingredients": ["oats", "banana", "eggs", "milk", "cinnamon"],
+      "prep_time_mins": 15,
+      "serves": 2,
+      "nutrition_per_serving": {
+        "calories": 310,
+        "protein_g": 10,
+        "carbs_g": 48,
+        "fat_g": 8
+      }
+    },
+    {
+      "name": "Greek Salad",
+      "diet": ["vegetarian"],
+      "ingredients": ["cucumber", "tomatoes", "feta cheese", "olives", "red onion", "olive oil"],
+      "prep_time_mins": 10,
+      "serves": 2,
+      "nutrition_per_serving": {
+        "calories": 220,
+        "protein_g": 8,
+        "carbs_g": 12,
+        "fat_g": 16
+      }
+    },
+    {
+      "name": "Beef Tacos",
+      "diet": [],
+      "ingredients": ["ground beef", "taco shells", "salsa", "cheese", "lettuce", "sour cream"],
+      "prep_time_mins": 25,
+      "serves": 3,
+      "nutrition_per_serving": {
+        "calories": 480,
+        "protein_g": 26,
+        "carbs_g": 38,
+        "fat_g": 22
+      }
+    },
+    {
+      "name": "Mushroom Risotto",
+      "diet": ["vegetarian"],
+      "ingredients": ["arborio rice", "mushrooms", "onion", "white wine", "parmesan", "vegetable stock"],
+      "prep_time_mins": 40,
+      "serves": 3,
+      "nutrition_per_serving": {
+        "calories": 390,
+        "protein_g": 10,
+        "carbs_g": 62,
+        "fat_g": 11
+      }
+    },
+    {
+      "name": "Omelette",
+      "diet": ["vegetarian"],
+      "ingredients": ["eggs", "cheese", "mushrooms", "onion", "butter"],
+      "prep_time_mins": 10,
+      "serves": 1,
+      "nutrition_per_serving": {
+        "calories": 320,
+        "protein_g": 22,
+        "carbs_g": 6,
+        "fat_g": 23
+      }
+    },
+    {
+      "name": "Tomato Soup",
+      "diet": ["vegetarian", "vegan"],
+      "ingredients": ["tomatoes", "onion", "garlic", "vegetable stock", "olive oil", "basil"],
+      "prep_time_mins": 30,
+      "serves": 3,
+      "nutrition_per_serving": {
+        "calories": 150,
+        "protein_g": 4,
+        "carbs_g": 22,
+        "fat_g": 6
+      }
+    },
+    {
+      "name": "Peanut Butter Toast",
+      "diet": ["vegetarian", "vegan"],
+      "ingredients": ["bread", "peanut butter", "banana", "honey"],
+      "prep_time_mins": 5,
+      "serves": 1,
+      "nutrition_per_serving": {
+        "calories": 340,
+        "protein_g": 10,
+        "carbs_g": 44,
+        "fat_g": 14
+      }
+    }
+  ]
+}
