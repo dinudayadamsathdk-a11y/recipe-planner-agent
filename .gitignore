@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+data/shopping_list*.txt
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
